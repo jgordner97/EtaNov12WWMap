@@ -25,10 +25,8 @@ var lyr_FloodWarningsandWatchesNov12_1 = new ol.layer.Vector({
                 style: style_FloodWarningsandWatchesNov12_1,
                 interactive: false,
     title: 'Flood Warnings and Watches Nov. 12<br />\
-    <img src="styles/legend/FloodWarningsandWatchesNov12_1_0.png" /> Flood Watch<br />\
-    <img src="styles/legend/FloodWarningsandWatchesNov12_1_1.png" /> Flash Flood Watch<br />\
-    <img src="styles/legend/FloodWarningsandWatchesNov12_1_2.png" /> Flood Warning<br />\
-    <img src="styles/legend/FloodWarningsandWatchesNov12_1_3.png" /> <br />'
+    <img src="styles/legend/FloodWarningsandWatchesNov12_1_0.png" /> Flood<br />\
+    <img src="styles/legend/FloodWarningsandWatchesNov12_1_1.png" /> Flash Flood<br />'
         });
 var format_SuperfundNationalPrioritiesListNPLSites_2 = new ol.format.GeoJSON();
 var features_SuperfundNationalPrioritiesListNPLSites_2 = format_SuperfundNationalPrioritiesListNPLSites_2.readFeatures(json_SuperfundNationalPrioritiesListNPLSites_2, 
